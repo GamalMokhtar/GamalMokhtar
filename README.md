@@ -1,16 +1,49 @@
-</h1>
-</div>
+<h1 align="center">Hi, I'm Gamal Mokhtar 👋</h1>
+<h3 align="center">Aspiring Developer | Data Science Enthusiast | Desktop & Python Developer</h3>
 
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FUjjwalSaini071c578.png?alt=media)
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FUjjwalSaini07f2c66.png?alt=media)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8151F7&width=435&lines=Python+Developer;Data+Science+Learner;Desktop+App+Builder;Frontend+Basics+%7C+HTML+CSS" alt="Typing SVG" />
+</a>
 
-<h3 align="center" ><a href="https://github.com/UjjwalSaini07"><img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=38&pause=1100&color=FF4500&vCenter=true&random=false&width=600&height=48&lines=%20%20++++A+passionate+Frontend+Developer+from+India" alt="Typing SVG" /></a></h3>
-<h3 align="center" ><a href="https://github.com/UjjwalSaini07"><img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=38&pause=1100&color=f8f8f8&vCenter=true&random=false&width=472&height=48&lines=%20%20++++Enthusiastic+for+user-friendliness" alt="Typing SVG" /></a></h3>
-@@ -175,6 +175,7 @@
-<img src="Assets_Used/LeetCodeBadges/25-100.gif?raw=true" alt="Leetcode 100 Days Badge" width="100px" height="100px" />
-<img src="Assets_Used/LeetCodeBadges/25-200.gif?raw=true" alt="Leetcode 200 Days Badge" width="100px" height="100px" />
-<img src="Assets_Used/LeetCodeBadges/25-365.gif?raw=true" alt="Leetcode 200 Days Badge" width="100px" height="100px" />
-   <img src="Assets_Used/LeetCodeBadges/2025.gif?raw=true" alt="Leetcode 200 Days Badge" width="100px" height="100px" />
-<img src="Assets_Used/LeetCodeBadges/StreakCoin.gif?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
-<img src="Assets_Used/LeetCodeBadges/JS30.png?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
-</div>
+<img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87ac-9d329c8323c4.gif" width="500">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=gamal-mokhtar&label=Profile%20views&color=0e75b6&style=flat" alt="gamal-mokhtar" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 🌱 I’m currently learning **Python, Data Science, and Desktop App Development**
+- 💻 I have experience with **HTML, CSS, Python**
+- 📊 Interested in **Data Science & Machine Learning**
+- 🖥️ Building **Desktop Applications**
+- 🚀 Always improving my skills and exploring new technologies
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://twitter.com/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/></a>
+<a href="https://linkedin.com/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
+<a href="https://instagram.com/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=gamal-mokhtar&theme=blue-green&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gamal-mokhtar&theme=blue-green&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=gamal-mokhtar&theme=blue-green&hide_border=true)
