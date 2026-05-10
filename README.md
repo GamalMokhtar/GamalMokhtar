@@ -1,16 +1,73 @@
-## Hi there 👋
+```javascript
+const gamal = {
+  name: "Gamal Mokhtar",
+  pronouns: ["he", "him"],
 
-<!--
-**GamalMokhtar/GamalMokhtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  languages: [
+    "Python",
+    "JavaScript",
+    "HTML",
+    "CSS"
+  ],
 
-Here are some ideas to get you started:
+  askMeAbout: [
+    "Python development",
+    "AI & machine learning",
+    "data science",
+    "web development",
+    "desktop applications",
+    "automation",
+    "system design"
+  ],
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  technologies: {
+    frontend: {
+      languages: ["HTML", "CSS", "JavaScript"],
+      styling: ["Tailwind CSS", "Bootstrap"]
+    },
+
+    backend: {
+      python: [
+        "Flask",
+        "FastAPI"
+      ]
+    },
+
+    desktopApps: {
+      frameworks: [
+        "Tkinter",
+        "PyQt"
+      ]
+    },
+
+    dataScience: {
+      libraries: [
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Scikit-learn"
+      ]
+    },
+
+    ai: {
+      fields: [
+        "Machine Learning",
+        "Generative AI",
+        "AI automation",
+        "Prompt engineering"
+      ],
+
+      tools: [
+        "OpenAI",
+        "Gemini"
+      ]
+    }
+  },
+
+  currentFocus:
+    "Building AI-powered applications and automation systems",
+
+  funFact:
+    "Most coding problems get solved after debugging and coffee ☕"
+};
+```
